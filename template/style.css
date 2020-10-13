@@ -112,7 +112,7 @@ a:hover{
     height: 100%;
 }
 .sidebar.open{
-    transform: translateX(0);
+    transform: translateX(0);               
 }
 .sidebar-close-button{
     border-radius: 50%;
