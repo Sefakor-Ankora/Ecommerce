@@ -1,2 +1,2 @@
 # Ecommerce
-An Ecommerce site for a friend to manage his boutique business
+Currently working on an Ecommerce web app that can manage any boutiques business
